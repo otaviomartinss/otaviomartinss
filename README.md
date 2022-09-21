@@ -1,10 +1,5 @@
 ## Olá, eu sou o Otávio Martins, desenvolvedor jr
-<head>
-<link rel="stylesheet" href="style.css">
-</head>
-<div class="title">
-  <span >teste</span>
-</div>
+
 <div align="center" >
   <a href="https://github.com/otaviomartinss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviomartinss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,7 +7,7 @@
 </div>
 
 <div style="display: inline"><br>
-  <img align="center" alt="Node" width="60" style="margin: 20; display: inline" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
+  <img align="center" alt="Node" width="80" style="margin: 20; display: inline" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="Nest" width="30" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Postgres" width="30" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="AWS" width="30" paddind-left="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
