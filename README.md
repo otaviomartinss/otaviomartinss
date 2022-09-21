@@ -1,6 +1,10 @@
 ## Olá, eu sou o Otávio Martins, desenvolvedor jr
-<link rel="stylesheet" href="style.css">
-<span class="title">teste</span>
+<head>
+< link rel="stylesheet" href="style.css">
+</head>
+<div class="title">
+  <span >teste</span>
+</div>
 <div align="center" >
   <a href="https://github.com/otaviomartinss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviomartinss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
