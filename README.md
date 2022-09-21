@@ -1,7 +1,7 @@
 ## Olá, eu sou o Otávio Martins, desenvolvedor jr
 
 <div align="center" >
-  <span style="color: #00ffcc">teste</span>
+  <span style="color: #ffa500">teste</span>
   <a href="https://github.com/otaviomartinss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviomartinss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviomartinss&layout=compact&langs_count=8&theme=dracula"/>
