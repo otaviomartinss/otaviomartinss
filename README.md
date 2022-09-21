@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviomartinss&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
-<div style="display: inline-block"><br>
+<div><br>
   <img alt="Node" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
   <img alt="Nest" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
   <img alt="Postgres" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
