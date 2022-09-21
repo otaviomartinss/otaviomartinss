@@ -7,14 +7,14 @@
 </div>
 
 <div><br>
-  <img alt="Node" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
-  <img alt="Nest" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
-  <img alt="Postgres" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
-  <img alt="AWS" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img alt="Javascript" height="40" width="70" src=>
-  <img alt="Typescript" height="40" width="70" src=>
-  <img alt="React" height="40" width="70" src=>
-  <img alt="HTML" height="40" width="70" src=>
-  <img alt="CSS" height="40" width="70" src=>
-  <img alt="Python" height="40" width="70" src=>
+  <img alt="Node" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
+  <img alt="Nest" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+  <img alt="Postgres" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
+  <img alt="AWS" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img alt="Javascript" height="30" width="70" src=>
+  <img alt="Typescript" height="30" width="70" src=>
+  <img alt="React" height="30" width="70" src=>
+  <img alt="HTML" height="30" width="70" src=>
+  <img alt="CSS" height="30" width="70" src=>
+  <img alt="Python" height="30" width="70" src=>
 </div>
