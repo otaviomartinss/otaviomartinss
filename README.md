@@ -1,6 +1,6 @@
 ## Olá, eu sou o Otávio Martins, desenvolvedor jr
 <head>
-< link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css">
 </head>
 <div class="title">
   <span >teste</span>
