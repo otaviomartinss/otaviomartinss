@@ -10,7 +10,7 @@
   <img align="center" alt="Node" width="80" style="margin: 20; display: inline" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="Nest" width="30" margin="20 20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Postgres" width="30" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
-  <img align="center" alt="AWS" width="30" paddind-left="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="AWS" width="60" paddind-left="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Javascript" width="30" paddind-left="10px" src=>
   <img align="center" alt="Typescript" width="30" paddind-left="10px" src=>
   <img align="center" alt="React" height="30" width="30" src=>
